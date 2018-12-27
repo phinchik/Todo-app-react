@@ -22,3 +22,7 @@
 ## Technologies Used
 
 - React
+
+## Preview
+
+<img src="./src/todo.png" />
