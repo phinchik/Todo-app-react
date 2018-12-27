@@ -1,20 +1,24 @@
-##TODO APP USING REACT
+## TODO APP USING REACT
 
-How to Clone and Run
+## How to Clone and Run
 
-> git clone https://github.com/phinchik/todo-app-react
-> cd todo-app-react
-> npm install
-> npm start
+- git clone https://github.com/phinchik/todo-app-react
+- cd todo-app-react
+- npm install
+- npm start
 
-Author
-Jenny Gutierrez
+## Features:
 
-Technologies Used
-React
+- Add a new Todo
+- Remove a specific Todo item by clicking the trash bin
+- Toggle single or multiple Todo
+- Delete all Toggled Todo
+- Number of items is generated dynamically
 
-Installation
-npm install
+## Author
 
-Run
-npm run start
+- Jenny Gutierrez
+
+## Technologies Used
+
+- React
